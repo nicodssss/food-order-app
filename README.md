@@ -1,0 +1,2 @@
+--- Food order app with Vite.js. 
+-- Further updates in README.md
